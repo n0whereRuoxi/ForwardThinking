@@ -1,0 +1,3 @@
+[submodule "ForwardThinking/ForwardThinking"]
+	path = ForwardThinking/ForwardThinking
+	url = https://github.com/n0whereRuoxi/ForwardThinking.git
